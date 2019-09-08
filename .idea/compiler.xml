@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="testfreemark" />
+        <module name="xc-framework-utils" />
+        <module name="xc-framework-model" />
+        <module name="testcustomer" />
+        <module name="xc-service-manage-course" />
+        <module name="xc-service-base-filesystem" />
+        <module name="xc-service-manager-cms-client" />
+        <module name="xc-framework-common" />
+        <module name="testproducer" />
+        <module name="test-fastdfs" />
+        <module name="xc-govern-center" />
+        <module name="xc-serive-manager-cms" />
+        <module name="xc-service-search" />
+        <module name="xc-govern-center (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test-fastdfs" target="1.8" />
+      <module name="testcustomer" target="1.8" />
+      <module name="testfreemark" target="1.8" />
+      <module name="testproducer" target="1.8" />
+      <module name="xc-framework-common" target="1.8" />
+      <module name="xc-framework-model" target="1.8" />
+      <module name="xc-framework-parent" target="1.8" />
+      <module name="xc-framework-utils" target="1.8" />
+      <module name="xc-govern-center" target="1.8" />
+      <module name="xc-govern-center (1)" target="1.8" />
+      <module name="xc-serive-manager-cms" target="1.8" />
+      <module name="xc-service-api" target="1.8" />
+      <module name="xc-service-base-filesystem" target="1.8" />
+      <module name="xc-service-manage-course" target="1.8" />
+      <module name="xc-service-manager-cms-client" target="1.8" />
+      <module name="xc-service-search" target="1.8" />
+      <module name="xcservicemanagecmsclient" target="1.8" />
+      <module name="xcservicemanagercmsclient" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="test-fastdfs" options="-parameters" />
+      <module name="testcustomer" options="-parameters" />
+      <module name="testfreemark" options="-parameters" />
+      <module name="testproducer" options="-parameters" />
+      <module name="xc-framework-common" options="-parameters" />
+      <module name="xc-framework-model" options="-parameters" />
+      <module name="xc-framework-utils" options="-parameters" />
+      <module name="xc-govern-center" options="-parameters" />
+      <module name="xc-govern-center (1)" options="-parameters" />
+      <module name="xc-serive-manager-cms" options="-parameters" />
+      <module name="xc-service-api" options="" />
+      <module name="xc-service-base-filesystem" options="-parameters" />
+      <module name="xc-service-manage-course" options="-parameters" />
+      <module name="xc-service-manager-cms-client" options="-parameters" />
+      <module name="xc-service-search" options="-parameters" />
+      <module name="xcservicemanagecmsclient" options="-parameters" />
+    </option>
+  </component>
+</project>
