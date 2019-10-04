@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/xc-service-manage-course/xc-service-manage-course.iml" filepath="$PROJECT_DIR$/xc-service-manage-course/xc-service-manage-course.iml" />
       <module fileurl="file://$PROJECT_DIR$/xc-service-manager-cms-client/xc-service-manager-cms-client.iml" filepath="$PROJECT_DIR$/xc-service-manager-cms-client/xc-service-manager-cms-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/xc-service-search/xc-service-search.iml" filepath="$PROJECT_DIR$/xc-service-search/xc-service-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-service-ucenter-auth/xc-service-ucenter-auth.iml" filepath="$PROJECT_DIR$/xc-service-ucenter-auth/xc-service-ucenter-auth.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/xcEduService.iml" filepath="$PROJECT_DIR$/.idea/xcEduService.iml" />
     </modules>
   </component>
